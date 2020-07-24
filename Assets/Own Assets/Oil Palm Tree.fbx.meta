@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 9ad66fcd4b0f6b84fbc5196c15a1f011
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: batang01
+    100002: batang02
+    100004: batang03
+    100006: batang03 1
+    100008: batang04
+    100010: batang06
+    100012: batang07
+    100014: daun
+    100016: daun01
+    100018: Object02
+    100020: Object03
+    100022: Object04
+    100024: Object29
+    100026: Object30
+    100028: Object33
+    100030: Object34
+    100032: Object35
+    100034: Object36
+    100036: Object37
+    100038: Object38
+    100040: Object39
+    100042: //RootNode
+    100044: Text02
+    100046: batang08
+    100048: daun1
+    100050: daun2
+    100052: daun3
+    100054: daun4
+    100056: daun5
+    100058: daun6
+    100060: daun7
+    100062: daun8
+    100064: tangkai1
+    100066: tangkai2
+    100068: tangkai3
+    100070: tangkai4
+    100072: tangkai5
+    400000: batang01
+    400002: batang02
+    400004: batang03
+    400006: batang03 1
+    400008: batang04
+    400010: batang06
+    400012: batang07
+    400014: daun
+    400016: daun01
+    400018: Object02
+    400020: Object03
+    400022: Object04
+    400024: Object29
+    400026: Object30
+    400028: Object33
+    400030: Object34
+    400032: Object35
+    400034: Object36
+    400036: Object37
+    400038: Object38
+    400040: Object39
+    400042: //RootNode
+    400044: Text02
+    400046: batang08
+    400048: daun1
+    400050: daun2
+    400052: daun3
+    400054: daun4
+    400056: daun5
+    400058: daun6
+    400060: daun7
+    400062: daun8
+    400064: tangkai1
+    400066: tangkai2
+    400068: tangkai3
+    400070: tangkai4
+    400072: tangkai5
+    2100000: No Name
+    2100002: Flower_Phklhinkl;hkl;hk_D
+    2100004: xx-001
+    2300000: batang01
+    2300002: batang02
+    2300004: batang03
+    2300006: batang03 1
+    2300008: batang04
+    2300010: batang06
+    2300012: batang07
+    2300014: daun
+    2300016: daun01
+    2300018: Object02
+    2300020: Object03
+    2300022: Object04
+    2300024: Object29
+    2300026: Object30
+    2300028: Object33
+    2300030: Object34
+    2300032: Object35
+    2300034: Object36
+    2300036: Object37
+    2300038: Object38
+    2300040: Object39
+    2300042: //RootNode
+    2300044: batang08
+    2300046: daun1
+    2300048: daun2
+    2300050: daun3
+    2300052: daun4
+    2300054: daun5
+    2300056: daun6
+    2300058: daun7
+    2300060: daun8
+    2300062: tangkai1
+    2300064: tangkai2
+    2300066: tangkai3
+    2300068: tangkai4
+    2300070: tangkai5
+    3300000: batang01
+    3300002: batang02
+    3300004: batang03
+    3300006: batang03 1
+    3300008: batang04
+    3300010: batang06
+    3300012: batang07
+    3300014: daun
+    3300016: daun01
+    3300018: Object02
+    3300020: Object03
+    3300022: Object04
+    3300024: Object29
+    3300026: Object30
+    3300028: Object33
+    3300030: Object34
+    3300032: Object35
+    3300034: Object36
+    3300036: Object37
+    3300038: Object38
+    3300040: Object39
+    3300042: //RootNode
+    3300044: batang08
+    3300046: daun1
+    3300048: daun2
+    3300050: daun3
+    3300052: daun4
+    3300054: daun5
+    3300056: daun6
+    3300058: daun7
+    3300060: daun8
+    3300062: tangkai1
+    3300064: tangkai2
+    3300066: tangkai3
+    3300068: tangkai4
+    3300070: tangkai5
+    4300000: batang08
+    4300002: batang01
+    4300004: batang07
+    4300006: batang06
+    4300008: batang04
+    4300010: batang03
+    4300012: batang03
+    4300014: batang02
+    4300016: Object30
+    4300018: Object29
+    4300020: daun
+    4300022: Object33
+    4300024: Object34
+    4300026: Object35
+    4300028: Object02
+    4300030: Object03
+    4300032: Object04
+    4300034: Object36
+    4300036: Object38
+    4300038: Object39
+    4300040: daun01
+    4300042: Object37
+    4300044: tangkai5
+    4300046: tangkai4
+    4300048: tangkai3
+    4300050: tangkai2
+    4300052: tangkai1
+    4300054: daun8
+    4300056: daun7
+    4300058: daun6
+    4300060: daun5
+    4300062: daun4
+    4300064: daun3
+    4300066: daun2
+    4300068: daun1
+    6400000: batang01
+    6400002: batang02
+    6400004: batang03
+    6400006: batang03 1
+    6400008: batang04
+    6400010: batang06
+    6400012: batang07
+    6400014: daun
+    6400016: daun01
+    6400018: Object02
+    6400020: Object03
+    6400022: Object04
+    6400024: Object29
+    6400026: Object30
+    6400028: Object33
+    6400030: Object34
+    6400032: Object35
+    6400034: Object36
+    6400036: Object37
+    6400038: Object38
+    6400040: Object39
+    6400042: //RootNode
+    6400044: batang08
+    6400046: daun1
+    6400048: daun2
+    6400050: daun3
+    6400052: daun4
+    6400054: daun5
+    6400056: daun6
+    6400058: daun7
+    6400060: daun8
+    6400062: tangkai1
+    6400064: tangkai2
+    6400066: tangkai3
+    6400068: tangkai4
+    6400070: tangkai5
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower_Phklhinkl;hkl;hk_D
+    second: {fileID: 2100000, guid: 80f6210148b3ff34f861390c306ce64e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: a6e456dac1baea54eae98795898933f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: xx-001
+    second: {fileID: 2100000, guid: ea4712eaef8e675498fd17b9892c81db, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 30f7a5309aa16d04290006e39b7d5161
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: batang01
+    100002: batang02
+    100004: batang03
+    100006: batang03 1
+    100008: batang04
+    100010: batang06
+    100012: batang07
+    100014: batang08
+    100016: Camera01
+    100018: Camera01.Target
+    100020: Camera02
+    100022: Camera02.Target
+    100024: Cornia_L
+    100026: Cornia_R
+    100028: daun
+    100030: daun01
+    100032: Direct01
+    100034: Direct01.Target
+    100036: Object02
+    100038: Object03
+    100040: Object04
+    100042: Object29
+    100044: Object30
+    100046: Object33
+    100048: Object34
+    100050: Object35
+    100052: Object36
+    100054: Object37
+    100056: Object38
+    100058: Object39
+    100060: //RootNode
+    100062: Sky01
+    100064: Text02
+    100066: Text05
+    400000: batang01
+    400002: batang02
+    400004: batang03
+    400006: batang03 1
+    400008: batang04
+    400010: batang06
+    400012: batang07
+    400014: batang08
+    400016: Camera01
+    400018: Camera01.Target
+    400020: Camera02
+    400022: Camera02.Target
+    400024: Cornia_L
+    400026: Cornia_R
+    400028: daun
+    400030: daun01
+    400032: Direct01
+    400034: Direct01.Target
+    400036: Object02
+    400038: Object03
+    400040: Object04
+    400042: Object29
+    400044: Object30
+    400046: Object33
+    400048: Object34
+    400050: Object35
+    400052: Object36
+    400054: Object37
+    400056: Object38
+    400058: Object39
+    400060: //RootNode
+    400062: Sky01
+    400064: Text02
+    400066: Text05
+    2000000: Camera01
+    2000002: Camera02
+    2100000: Cornia
+    2100002: No Name
+    2100004: Flower_Phklhinkl;hkl;hk_D
+    2100006: xx-001
+    2300000: batang01
+    2300002: batang02
+    2300004: batang03
+    2300006: batang03 1
+    2300008: batang04
+    2300010: batang06
+    2300012: batang07
+    2300014: batang08
+    2300016: Cornia_L
+    2300018: Cornia_R
+    2300020: daun
+    2300022: daun01
+    2300024: Object02
+    2300026: Object03
+    2300028: Object04
+    2300030: Object29
+    2300032: Object30
+    2300034: Object33
+    2300036: Object34
+    2300038: Object35
+    2300040: Object36
+    2300042: Object37
+    2300044: Object38
+    2300046: Object39
+    3300000: batang01
+    3300002: batang02
+    3300004: batang03
+    3300006: batang03 1
+    3300008: batang04
+    3300010: batang06
+    3300012: batang07
+    3300014: batang08
+    3300016: Cornia_L
+    3300018: Cornia_R
+    3300020: daun
+    3300022: daun01
+    3300024: Object02
+    3300026: Object03
+    3300028: Object04
+    3300030: Object29
+    3300032: Object30
+    3300034: Object33
+    3300036: Object34
+    3300038: Object35
+    3300040: Object36
+    3300042: Object37
+    3300044: Object38
+    3300046: Object39
+    4300000: Cornia_L
+    4300002: Cornia_R
+    4300004: batang08
+    4300006: batang01
+    4300008: batang07
+    4300010: batang06
+    4300012: batang04
+    4300014: batang03
+    4300016: batang03
+    4300018: batang02
+    4300020: Object30
+    4300022: Object29
+    4300024: daun
+    4300026: Object33
+    4300028: Object34
+    4300030: Object35
+    4300032: Object02
+    4300034: Object03
+    4300036: Object04
+    4300038: Object36
+    4300040: Object38
+    4300042: Object39
+    4300044: daun01
+    4300046: Object37
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Direct01
+    10800002: Sky01
+    6000828045688606266: Camera01
+    6000828045688606268: Camera02
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cornia
+    second: {fileID: 2100000, guid: 943f446fbec2ec644b0b72947e75e476, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower_Phklhinkl;hkl;hk_D
+    second: {fileID: 2100000, guid: 896fcaea01d5cc6428e530ae96089ed4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: aa9fcb8764ab3324aa575a948d139c3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: xx-001
+    second: {fileID: 2100000, guid: 33a2fabc7b7707f4a8242c649d1d3f41, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
