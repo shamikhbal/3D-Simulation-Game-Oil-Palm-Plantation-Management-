@@ -17,16 +17,14 @@ public class Watering : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //Debug.Log(GMScript.currentTool);
         if (Input.GetKey(KeyCode.Q))
         {
             emitter.speed = emissionSpeed;
         }
+
         else
         {
             emitter.speed = 0;
         }
-
-
     }
 }

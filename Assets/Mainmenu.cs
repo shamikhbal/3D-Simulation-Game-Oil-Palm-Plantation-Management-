@@ -30,22 +30,18 @@ public class Mainmenu : MonoBehaviour{
     {
         career.PlayOneShot(clickFx);
         StartCoroutine(careerScene());
-        
-        //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
     }
+
     public void Tutorial()
     {
         turorial.PlayOneShot(clickFx);
         StartCoroutine(tutorialScene());
-        
-        //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 3);
     }
 
     public void QuitGame()
     {
         exit.PlayOneShot(clickFx);
         StartCoroutine(exitGame());
-        
     }
 
     public void Delete()
@@ -53,7 +49,6 @@ public class Mainmenu : MonoBehaviour{
         delete.PlayOneShot(clickFx);
         StartCoroutine(deletePlayer());
         PlayerPrefs.DeleteKey("name");
-        
     }
 
     IEnumerator careerScene()
@@ -61,17 +56,20 @@ public class Mainmenu : MonoBehaviour{
         yield return new WaitForSeconds(0.5f);
         SceneManager.LoadScene("Career");
     }
+
     IEnumerator tutorialScene()
     {
         yield return new WaitForSeconds(0.5f);
         SceneManager.LoadScene("Tutorial");
     }
+
     IEnumerator exitGame()
     {
         yield return new WaitForSeconds(0.5f);
         PlayerPrefs.Save();
         Application.Quit();
     }
+
     IEnumerator deletePlayer()
     {
         yield return new WaitForSeconds(0.5f);

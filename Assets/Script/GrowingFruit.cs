@@ -34,19 +34,6 @@ public class GrowingFruit : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       
-     //       GameObject tree = GameObject.FindWithTag(CutFruit.currentTree);
-     //       GameObject fruit = tree.gameObject.transform.GetChild(0).GetChild(12).GetChild(0).gameObject;
-
-    /*        if (GrowingTree.triggerFruit == true)
-            {
-                GrowFruit();
-            }
-            if (CutFruit.triggerCutFruit == true)
-            {
-                Cut(fruit);
-            }
-    */
         for (int i = 0; i <= SpawnPlantTree.treeCounter; i++)
         {
             if (GrowingTree.triggerFruit[i] == true)
@@ -64,10 +51,7 @@ public class GrowingFruit : MonoBehaviour
                 {
                     Cut(cfruit);
                     CutFruit.triggerCutFruit = false;
-                }
-
-
-        
+                }  
     }
 
     void GrowFruit(GameObject F, int i)

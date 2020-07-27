@@ -12,15 +12,13 @@ public class MainMenu : MonoBehaviour
 
     private void Start()
     {
-        //DontDestroyOnLoad(this.gameObject);
         player.text = "Player : "+PlayerPrefs.GetString("name");
-
     }
+
     public void Mainmenu()
     {
         myFx.PlayOneShot(clickFx);
         StartCoroutine(mainMenuScene());
-        
     }
 
     IEnumerator mainMenuScene()

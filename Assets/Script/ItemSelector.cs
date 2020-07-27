@@ -15,49 +15,27 @@ public class ItemSelector : MonoBehaviour
         SelectItem();
         tool.text = "Tool : " + item;
         treeCursor.enabled = false;
-        
     }
 
     // Update is called once per frame
     void Update()
     {
         int previousSelectedItem = selectedItem;
-
- //       if(Input.GetAxis("Mouse ScrollWheel") > 0f)
- //       {
- //           if (selectedItem >= transform.childCount - 1)
- //               selectedItem++;
- //           else
- //               selectedItem++;
-//        }
-  //      if(Input.GetAxis("Mouse ScrollWheel") < 0f)
- //       {
- //           if (selectedItem <= 0)
- //               selectedItem = transform.childCount - 1;
-  //          else
-  //              selectedItem--;
-  //      }
         if (Input.GetKeyDown(KeyCode.Alpha1))
         {
             selectedItem = 1;
             item = "Planting";
             Item();
-            //treeCursor.enabled = true;
-            //tool.text = "Tool : Planting";
         }
+
         if (Input.GetKeyDown(KeyCode.Alpha2) && transform.childCount >= 2)
         {
             selectedItem = 2;
             item = "Watering";
             Item();
             treeCursor.enabled = false;
-            // tool.text = "Tool : Watering";
         }
-       // if (Input.GetKeyDown(KeyCode.Alpha3) && transform.childCount >= 3)
-       // {
-       //     selectedItem = 2;
-       //    tool.text = "Tool : Dunno";
-       //}
+
         if (previousSelectedItem != selectedItem)
         {
             SelectItem();

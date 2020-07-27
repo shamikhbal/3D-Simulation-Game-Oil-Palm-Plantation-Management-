@@ -5,9 +5,7 @@ using UnityEngine;
 public class GrowingTree : MonoBehaviour
 {
     public float maxGrowth;
-        //= 0.006f;
     public float speedGrowth;
-        //= Random.Range(0.0001f, 0.001f);
     public static float currentGrowth = 0.0f;
     public static bool[] triggerFruit = new bool[] { false, false, false, false, false,
                                                 false, false, false, false, false,
@@ -21,11 +19,6 @@ public class GrowingTree : MonoBehaviour
                                                 false, false, false, false, false,};
 
     Vector3 tempScale;
-
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()

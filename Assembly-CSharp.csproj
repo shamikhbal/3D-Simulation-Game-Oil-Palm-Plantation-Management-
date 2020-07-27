@@ -103,8 +103,6 @@
     <Compile Include="Assets\Script\GrowingTree.cs" />
     <Compile Include="Assets\Script\ItemSelector.cs" />
     <Compile Include="Assets\Script\MainMenu.cs" />
-    <Compile Include="Assets\Script\PickupDrop.cs" />
-    <Compile Include="Assets\Script\PlantArea.cs" />
     <Compile Include="Assets\Script\PlayersName.cs" />
     <Compile Include="Assets\Script\SpawnPlantTree.cs" />
     <Compile Include="Assets\Script\TreeCursor.cs" />
